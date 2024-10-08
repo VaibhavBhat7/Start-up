@@ -7,23 +7,23 @@ const User_about = () => {
             <div className="main">
                 <div style={{ justifyContent: "center", backgroundColor: "#f5f5f5" }} className='body'>
                         <div id="header">
-                            <h1>Welcome to Wakez</h1>
+                            <h1>Welcome to Walkez</h1>
                         </div>
                     <div id="section">
 
                         <div id="mission">
                             <h2>Our Mission</h2>
-                            <p>Wakez is here to transform cities into more pedestrian-friendly environments by offering insights and tools to ensure safe, enjoyable walking experiences for everyone.</p>
+                            <p>Walkez is here to transform cities into more pedestrian-friendly environments by offering insights and tools to ensure safe, enjoyable walking experiences for everyone.</p>
                         </div>
 
                         <div id="problem">
                             <h2>The Problem We’re Solving</h2>
-                            <p>In cities like Bengaluru, walkability is often a challenge. Sidewalks can be unpredictable, streets congested, and pedestrian safety overlooked. Wakez aims to address these issues, making walking easier and more accessible.</p>
+                            <p>In cities like Bengaluru, walkability is often a challenge. Sidewalks can be unpredictable, streets congested, and pedestrian safety overlooked. Walkez aims to address these issues, making walking easier and more accessible.</p>
                         </div>
 
                         <div id="how-it-works">
-                            <h2>How Wakez Works</h2>
-                            <p>Wakez empowers users to rate streets, share images and videos, and provide feedback on walkability. Our AI model processes this data to give real-time walkability scores, helping users find the most walkable paths quickly and easily.</p>
+                            <h2>How Walkez Works</h2>
+                            <p>Walkez empowers users to rate streets, share images and videos, and provide feedback on walkability. Our AI model processes this data to give real-time walkability scores, helping users find the most walkable paths quickly and easily.</p>
                         </div>
 
                         <div id="features">
@@ -38,7 +38,7 @@ const User_about = () => {
 
                         <div id="vision">
                             <h2>Our Vision</h2>
-                            <p>We aim to create cities where walking is a preferred mode of transport. Wakez is starting in Bengaluru, but we envision expanding to cities worldwide, promoting walkable, sustainable urban spaces.</p>
+                            <p>We aim to create cities where walking is a preferred mode of transport. Walkez is starting in Bengaluru, but we envision expanding to cities worldwide, promoting walkable, sustainable urban spaces.</p>
                         </div>
 
                         <div id="get-involved">

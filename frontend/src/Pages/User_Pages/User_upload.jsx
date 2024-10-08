@@ -111,7 +111,7 @@ const User_upload = () => {
   return (
     <>
       <div className="bdy">
-        <div className="content">
+        <div className="content-upload">
           <h1>Upload Street Images</h1>
           <div className="image-upload">
             <div className="image-header">

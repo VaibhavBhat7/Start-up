@@ -1,15 +1,23 @@
 
 footer {
+  /* overflow-x: hidden; */
   width: 100%;
-    background-color: black;
+  
+    background-color: #1c2025;
     color: white;
     padding-top: 20px;
     padding-bottom: 20px;
   }
+  .footer-box-1{
+    display: flex;
+  }
+  .footer-h3{
+    margin-left: 10px;
+  }
   
   .footer-container{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-around;
     flex-wrap: wrap;
     margin: 0 AUTO;
     max-width: 1000px;
@@ -70,6 +78,7 @@ footer {
   }
   
   .footer-copy{
+    margin-top: 15px;
     text-align: center;
   }
 
